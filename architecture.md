@@ -1,3 +1,4 @@
+```
 AI Text Summarizer
 │
 ├── app.py
@@ -18,3 +19,4 @@ AI Text Summarizer
 ├── requirements.txt
 │
 └── README.md
+```
